@@ -1,6 +1,6 @@
 1. tuples are denoted with (normal brackets) while list are denoted with [square brackets]
 e.g (1,2,3) [1,2,3]
-2. tuples are predefined which means cannot be uttered with(cannot add into or remove from) while lists can be modified(can be added to or removed) because they have serval built in functions to help the process e.g for lists the append() method is used to add and to remove you'd use the remove() method.
+2. tuples are not modifiable which means cannot be uttered with after being declared(cannot add into or remove from), we can say they can be static(unchangable and you can't do too much with them) while lists are dynamic, they can be modified(can be added to or removed) because they have serval built in functions to help the process e.g for lists the append() method is used to add and to remove you'd use the remove() method.
 
 
 	
